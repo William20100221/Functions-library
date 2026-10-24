@@ -1,2 +1,2 @@
 # Functions-library
-Function library with random libraries
+Function library with random self made functions
